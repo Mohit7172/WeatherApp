@@ -1,11 +1,8 @@
-.vs/
 bin/
 obj/
 *.user
 *.suo
-*.vsidx
-*.vssscc
-*.cache
+*.vs/
 *.log
-*.db
-*.accdb
+*.tmp
+
